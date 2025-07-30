@@ -10,6 +10,6 @@ accountEmail = "prince@gmail.com"
 accountPass = "2345123"
 accountCity = "Nalanda"
 
-// prefer to use var instead of let bcz of issue in block scope and functional scope
+// prefer to use let instead of var bcz of issue in block scope and functional scope
 console.log(accountId)
 console.table([accountId , accountEmail, accountPass , accountCity, accountState]);
