@@ -47,7 +47,14 @@ console.log(booleanIsLoggedIn);
 //checking number can change in string or not using conversion Operation
 let num1 = 25
 let convInString = String(num1)
-console.log(convInString);
-console.log(typeof convInString);
+// console.log(convInString);
+// console.log(typeof convInString);
 
+
+
+// ************** Operations ***************
+
+let value = 3
+let negValue = -value
+console.log(negValue);
 
